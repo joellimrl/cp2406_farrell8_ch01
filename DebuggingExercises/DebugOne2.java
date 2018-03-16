@@ -8,5 +8,5 @@ public class DebugOne2
       System.out.println("can be a challenge,");
       System.out.prnitln("but when everything works correctly,");
       System.out.println("tt's very satisfying");
-   }
+   } */
 }
